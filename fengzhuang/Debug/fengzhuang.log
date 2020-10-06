@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\think\desktop\c++\fengzhuang\fengzhuang\main.cpp(24): warning C4002: 类函数宏的调用“MAXTest”参数过多
+c:\users\think\desktop\c++\fengzhuang\fengzhuang\main.cpp(26): warning C4002: 类函数宏的调用“MAXTest”参数过多
+  fengzhuang.vcxproj -> C:\Users\Think\Desktop\C++\fengzhuang\Debug\fengzhuang.exe
